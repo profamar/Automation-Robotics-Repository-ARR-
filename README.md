@@ -4,7 +4,6 @@ Bem-vindo ao **Automation & Robotics Repository (ARR)**! Este repositório é de
 
 ![Texto Alternativo](https://github.com/profamar/Automation-Robotics-Repository-ARR-/blob/main/hightech-robot-arms-automated-manufacturing-plant.jpg)
 
-
 ## 📌 Objetivo
 Nosso objetivo é fornecer um ambiente colaborativo para o aprendizado e a inovação em **robótica e automação**. Seja você um estudante, entusiasta ou profissional, este repositório ajudará a expandir seus conhecimentos e a desenvolver habilidades práticas.
 
