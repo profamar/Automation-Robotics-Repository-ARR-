@@ -4,6 +4,8 @@ Bem-vindo ao **Automation & Robotics Repository (ARR)**! Este repositório é de
 
 ![Texto Alternativo](https://github.com/profamar/Automation-Robotics-Repository-ARR-/blob/main/ai-powered-device-concept.jpg)
 
+![Texto Alternativo](URL_da_Imagem)
+
 
 ## 📌 Objetivo
 Nosso objetivo é fornecer um ambiente colaborativo para o aprendizado e a inovação em **robótica e automação**. Seja você um estudante, entusiasta ou profissional, este repositório ajudará a expandir seus conhecimentos e a desenvolver habilidades práticas.
