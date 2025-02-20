@@ -2,9 +2,7 @@
 
 Bem-vindo ao **Automation & Robotics Repository (ARR)**! Este repositório é dedicado ao estudo, desenvolvimento e compartilhamento de projetos de **automação** e **robótica**. Aqui, você encontrará tutoriais, códigos, esquemas e documentação para explorar esse fascinante mundo.
 
-![Texto Alternativo](https://github.com/profamar/Automation-Robotics-Repository-ARR-/blob/main/ai-powered-device-concept.jpg)
-
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](https://github.com/profamar/Automation-Robotics-Repository-ARR-/blob/main/hightech-robot-arms-automated-manufacturing-plant.jpg)
 
 
 ## 📌 Objetivo
