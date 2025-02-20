@@ -4,6 +4,8 @@ Bem-vindo ao **Repositório de Automação e Robótica (RAR)**! Este repositóri
 
 ![Texto Alternativo](https://github.com/profamar/Automation-Robotics-Repository-ARR-/blob/main/hightech-robot-arms-automated-manufacturing-plant.jpg)
 
+Imagem de Freepik
+
 ## 📌 Objetivo
 Nosso objetivo é fornecer um ambiente colaborativo para o aprendizado e a inovação em **robótica e automação**. Seja você um estudante, entusiasta ou profissional, este repositório ajudará a expandir seus conhecimentos e a desenvolver habilidades práticas.
 
@@ -73,4 +75,4 @@ Este repositório está licenciado sob a **Licença MIT**, permitindo uso, modif
 
 ---
 
-🔗 Para mais informações, visite o site: [SeuSiteAqui.com](#)
+
