@@ -2,6 +2,9 @@
 
 Bem-vindo ao **Automation & Robotics Repository (ARR)**! Este repositório é dedicado ao estudo, desenvolvimento e compartilhamento de projetos de **automação** e **robótica**. Aqui, você encontrará tutoriais, códigos, esquemas e documentação para explorar esse fascinante mundo.
 
+![Texto Alternativo](URL_da_Imagem)
+
+
 ## 📌 Objetivo
 Nosso objetivo é fornecer um ambiente colaborativo para o aprendizado e a inovação em **robótica e automação**. Seja você um estudante, entusiasta ou profissional, este repositório ajudará a expandir seus conhecimentos e a desenvolver habilidades práticas.
 
